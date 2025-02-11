@@ -14,7 +14,6 @@ This is a fully functional e-commerce website designed for selling flowers, offe
 
 - HTML
 - CSS
-- JavaScript
   
 ### Backend:
 
@@ -37,3 +36,6 @@ This is a fully functional e-commerce website designed for selling flowers, offe
 - Advanced order tracking for real-time delivery updates.
 - AI-based flower recommendations to enhance the shopping experience.
 ###  💚 Feel free to contribute and help improve this project! 🌷
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=10&layout=compact)
+
