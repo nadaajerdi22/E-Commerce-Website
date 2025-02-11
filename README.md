@@ -36,4 +36,10 @@ This is a fully functional e-commerce website designed for selling flowers, offe
 - Advanced order tracking for real-time delivery updates.
 - AI-based flower recommendations to enhance the shopping experience.
 ###  💚 Feel free to contribute and help improve this project! 🌷
+# My GitHub Stats
+
+Here are the top languages I used:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadaajerdi22&langs_count=10&layout=compact)
+
 
