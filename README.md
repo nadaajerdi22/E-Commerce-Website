@@ -26,7 +26,7 @@ This is a fully functional e-commerce website designed for selling flowers, offe
 
 ## 🚀 Getting Started
 -  Clone the repository:
-git clone https://github.com/your-username/flower-shop.git
+´´´git clone https://github.com/your-username/flower-shop.git´´´
 - Set up the database and configure the connection in the PHP files.
 - Run the project on a local server (e.g., XAMPP, WAMP).
 - Start exploring the website and enjoy shopping for flowers!
