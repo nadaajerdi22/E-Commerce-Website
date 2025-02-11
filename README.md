@@ -13,11 +13,11 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 ## 🚀 Getting Started
-Clone the repository:
+#### Clone the repository:
 git clone https://github.com/your-username/flower-shop.git
-Set up the database and configure the connection in the PHP files.
-Run the project on a local server (e.g., XAMPP, WAMP).
-Start exploring the website!
+#### Set up the database and configure the connection in the PHP files.
+#### Run the project on a local server (e.g., XAMPP, WAMP).
+#### Start exploring the website!
 ## 📌 Future Improvements
 Integration of an online payment system.
 Advanced order tracking system.
