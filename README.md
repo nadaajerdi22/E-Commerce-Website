@@ -10,16 +10,16 @@ This is a fully functional e-commerce website designed for selling flowers, offe
 - 📦 Order Management – Track your orders and view purchase history.
 - 🎨 Responsive Design – Optimized for desktop, tablet, and mobile devices, ensuring a seamless shopping experience across all devices.
 ## 🛠️ Technologies Used
-### Frontend:
+### Frontend
 
 - HTML
 - CSS
   
-### Backend:
+### Backend
 
 - PHP
 
-### Database:
+### Database
 
 - MySQL
 
